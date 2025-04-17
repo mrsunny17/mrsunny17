@@ -5,10 +5,12 @@
 
     👨‍💻 About Me
   
-    🌱 I’m currently enhancing my React.js & JavaScript skills.
-    💡 I love problem-solving and building dynamic UI/UX experiences.
-    🎯 Looking for an internship or entry-level Front-End Developer role.
-    💞️ Open to collaborating on exciting front-end projects.
+    🌱 Currently sharpening my skills in React.js and JavaScript  
+    💡 Passionate about problem-solving and editing skills
+    🎯 Actively seeking an internship or entry-level Front-End Developer opportunity  
+    🤝 Open to collaborating on exciting front-end projects and creative builds  
+    🚀 Let's build something awesome together!  
+
 
     📫 How to reach me:
   
